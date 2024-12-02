@@ -12,7 +12,7 @@ local function checkSpeed(player)
     local humanoid = character:FindFirstChild("Humanoid")
     local previousPosition = character.HumanoidRootPart.Position
     local currentPosition
-    local maxSpeed = 50  -- Limite de velocidade permitido
+    local maxSpeed = 50 
 
     -- Verifica a velocidade a cada segundo
     while player.Parent do
