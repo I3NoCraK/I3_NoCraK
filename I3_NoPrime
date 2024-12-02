@@ -28,7 +28,6 @@ local function checkSpeed(player)
     end
 end
 
--- Conectar a função de verificação ao entrar no jogo
 Players.PlayerAdded:Connect(function(player)
     player.CharacterAdded:Connect(function(character)
         checkSpeed(player)
