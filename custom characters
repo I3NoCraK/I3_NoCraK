@@ -3,7 +3,7 @@ local module = {}
 module.PlayerPermission = {
     ["logui122_X"] = { PlayerTier = 1000 },
     ["yato5666544"] = { PlayerTier = 1000 },
-    ["I3_NoPrime"] = { PlayerTier = 12 },
+    ["I3_NoPrime"] = { PlayerTier = 15 },
 }
 
 module.Characters = {
