@@ -1,0 +1,18 @@
+local module = {}
+
+module.PlayerPermission = {
+    ["logui122_X"] = { PlayerTier = 1000 },
+    ["yato5666544"] = { PlayerTier = 1000 },
+    ["I3_NoPrime"] = { PlayerTier = 12 },
+}
+
+module.Characters = {
+    ["Eren"] = {
+        Tier = 15,
+        Permission = { "5205964172" },
+        Icon = 100553756186052,
+        Gift = true
+    }
+}
+
+return module
