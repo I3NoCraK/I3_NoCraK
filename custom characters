@@ -7,7 +7,7 @@ module.PlayerPermission = {
 }
 
 module.Characters = {
-    ["Eren"] = {
+    ["Escanor"] = {
         Tier = 15,
         Permission = { "5205964172" },
         Icon = 100553756186052,
