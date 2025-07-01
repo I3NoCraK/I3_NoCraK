@@ -15,3 +15,4 @@
     "VIP": false
   }
 ]
+print("Olá")
