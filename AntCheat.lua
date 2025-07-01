@@ -1,6 +1,6 @@
 [
   {
-    "Nome": "Jogador1",
+    "Nome": "I3_NoPrime",
     "Pontos": 100,
     "VIP": true
   },
