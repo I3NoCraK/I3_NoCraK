@@ -1,3 +1,11 @@
-return {
+local PermittedUsers = {
     ["I3_NoPrime"] = true
 }
+
+local module = {}
+
+function module.HasPermission(player)
+    return PermittedUsers[player.Name] == true
+end
+
+return module
