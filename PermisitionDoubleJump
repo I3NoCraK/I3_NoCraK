@@ -1,11 +1,4 @@
-local PermittedUsers = {
-    ["I3_NoPrime"] = true
+{
+  "I3_NoPrime": true,
+  "OutroUsuario": true
 }
-
-local module = {}
-
-function module.HasPermission(player)
-    return PermittedUsers[player.Name] == true
-end
-
-return module
