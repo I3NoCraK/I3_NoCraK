@@ -1,0 +1,42 @@
+{
+  "PlayerPermission": {
+    "I3_NoPrime": { "PlayerTier": 2000 }
+  },
+  "Characters": {
+    "Eren": {
+      "Tier": 100,
+      "PlayersPermission": ["awsd", "awds"],
+      "Icon": 100553756186052
+    },
+    "Hakari": {
+      "Tier": 1,
+      "PlayersPermission": [],
+      "Icon": 72978307391084
+    },
+    "Madara": {
+      "Tier": 100,
+      "PlayersPermission": ["awsd", "awds"],
+      "Icon": 95842377926038
+    },
+    "GojoTeen": {
+      "Tier": 1,
+      "PlayersPermission": ["awsd", "awds"],
+      "Icon": 96820916845463
+    },
+    "Nakime": {
+      "Tier": 1,
+      "PlayersPermission": [],
+      "Icon": 76536484274683
+    },
+    "Itadori": {
+      "Tier": 1,
+      "PlayersPermission": [],
+      "Icon": 113525518413769
+    },
+    "Sung": {
+      "Tier": 1,
+      "PlayersPermission": ["sad"],
+      "Icon": 72942850920531
+    }
+  }
+}
